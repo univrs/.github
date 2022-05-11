@@ -1,2 +1,2 @@
-# .github
-univrs.io
+# univrs.io
+
