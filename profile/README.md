@@ -2,6 +2,8 @@
 
 ### A startup focused on advocating for the US Government to build and maintain a public cloud infrastructure could be quite a challenging yet ambitious endeavor. Here’s a high-level roadmap to help you get started:
 
+[ hear 👂about this vision ](https://drive.google.com/file/d/1cPIRbQFSUtEH8aE6yXpRNhceJrAL5nX7/view?usp=drivesdk)
+
 ### 1. Conduct Thorough Research
 Understand the landscape of cloud computing, current government policies on technology and cloud infrastructure, and the various stakeholders involved. Focus on these areas:
 - **Existing Government Cloud Services**: Study existing public cloud services, like those provided by AWS, Microsoft Azure, and Google Cloud, as well as government cloud initiatives like FedRAMP.
